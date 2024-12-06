@@ -262,7 +262,7 @@ def power_bi_dashboard():
     # Add some spacing
     st.markdown("<br>" * 2, unsafe_allow_html=True)
     # Power BI embed link
-    power_bi_url = "https://app.powerbi.com/reportEmbed?reportId=f85c3ce5-e5b6-4275-bfea-05fc5c98ff68&appId=2b99fecb-2377-4f75-8496-792db7e2b66a&autoAuth=true&ctid=8d513303-4b89-4180-b233-bebb388ad37f"
+    power_bi_url = "https://app.powerbi.com/reportEmbed?reportId=4772409a-e4e2-4720-8088-591f81104814&appId=2b99fecb-2377-4f75-8496-792db7e2b66a&autoAuth=true&ctid=8d513303-4b89-4180-b233-bebb388ad37f"
     # Center-align iframe using a div container
     dashboard_html = f"""
     <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
